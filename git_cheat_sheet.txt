@@ -21,4 +21,10 @@ git status
 Commit changes:
 git commit -m "message for commit"
 
+Undo changes in directory:
+git checkout -- filename
 
+
+
+
+always add a readme.md so people can see what the repo is for
