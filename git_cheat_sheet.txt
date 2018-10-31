@@ -11,6 +11,7 @@ git clone "link"
 
 Add a file to be tracked:
 git add filename
+git add . 				tracks all files with changes
 
 Remove a file to be tracked:
 git remove filename
@@ -21,8 +22,23 @@ git status
 Commit changes:
 git commit -m "message for commit"
 
-Undo changes in directory:
-git checkout -- filename
+Upload changes:
+git push
+
+Download latest:
+git pull
+
+See all branches:
+git branch
+
+Create branch
+git branch branch_name
+
+Use branch
+git checkout branch_name
+
+
+
 
 
 
