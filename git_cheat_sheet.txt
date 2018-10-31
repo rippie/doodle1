@@ -42,5 +42,12 @@ git checkout branch_name
 
 
 
+// ***************** TIPS ***************** //
+
+a pull request can be made to update branch to master
+pull request have to be approved by a merge pull request
+
+
+
 
 always add a readme.md so people can see what the repo is for
