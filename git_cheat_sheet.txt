@@ -1,0 +1,24 @@
+Configure github:
+	git config --global user.email "email.com"
+	git config --global user.name "your name"
+
+Confirm username and email:
+	git config --global user.name
+	git config --global user.email
+
+Clone repo: 
+git clone "link"
+
+Add a file to be tracked:
+git add filename
+
+Remove a file to be tracked:
+git remove filename
+
+Check the status:
+git status
+
+Commit changes:
+git commit -m "message for commit"
+
+
