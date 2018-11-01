@@ -37,7 +37,7 @@ git branch branch_name
 Use branch
 git checkout branch_name
 
-
+create a ".gitignore" file to prevent uploading certain files, file types and folders
 
 
 
@@ -47,7 +47,8 @@ git checkout branch_name
 a pull request can be made to update branch to master
 pull request have to be approved by a merge pull request
 
+bad practice to always work from master
 
-
+branches are saved locally and synced with repo when a pull is done
 
 always add a readme.md so people can see what the repo is for
